@@ -1,0 +1,36 @@
+
+body {
+  background-color:#DDD4CD;
+}
+.Gallery {
+	padding-left: 20%;
+  padding-right: 20%;
+  padding-bottom: 5%
+}
+h1 {
+	 text-align: center;
+     color: #DDD4CD;
+     background-color:white;
+     font-size: 3.5em;
+}
+#div_2_display {
+  display: flex;
+}
+
+#info{
+  box-sizing: auto;
+  border: 2px solid;
+  border-color: white;
+  text-align: center;
+  font-size: 1.5em;
+  color: white;
+}
+
+#bigs{
+    position: relative;
+      top: 10;
+     text-align: center;
+      display: block;
+      top:100px;
+      
+    }
